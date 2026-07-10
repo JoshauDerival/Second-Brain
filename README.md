@@ -20,3 +20,7 @@ A personal knowledge base where I document what I learn in computer science, sof
 1. Capture ideas in `inbox/`.
 2. Process notes into `notes/`, `projects/`, `areas/`, or `resources/`.
 3. Move inactive material to `archive/`.
+
+## Notes
+
+- [Jewel](Jewel.md)
